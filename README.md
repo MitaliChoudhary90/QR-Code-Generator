@@ -27,4 +27,4 @@ A simple and efficient Node.js application that generates QR code images from an
    -npm install
 
 3.You can run the app using:
-  -node index.js
+   -node index.js
